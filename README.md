@@ -14,5 +14,8 @@ Intro for både innebygde uttrykk i Pyret, innebygde funksjoner i Pyret (tables)
 
 Bygger videre på filen tables.arr
 
-## progoblig.arr
+## [progoblig.arr](progoblig.arr)
 En case for dataanalyse for evalueringsdata fra Progoblig i IS-114. 
+
+## [on-key-example.arr](on-key-example.arr)
+Et eksempel for hvordan animere en figur med tastetrykk. 
