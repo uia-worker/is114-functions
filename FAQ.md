@@ -7,8 +7,8 @@ Det kan være en første fase i designprosessen, men meningen med EN funksjon va
 
 Signaturen til funksjonen kan være 
 
-´´´
+```
 tegn-flagg(landkode, dimensjoner, ...)
-´´´
+```
 
 
