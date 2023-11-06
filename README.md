@@ -1,6 +1,11 @@
 # is114-functions
 Utforsker funksjoner i IS-114
 
+## [2023-11-06.arr](2023-11-06.arr)
+Gjennomgang av modellering av bordet for spille "Hanio tårnet".
+Demonstrerer manipulasjon av lister med figurer (Images). 
+Les kommentarene i kildekoden nøye.
+
 ## [yinandyang.arr](yinandyang.arr)
 Introduksjon av datamodellering med bilder, forgrening og håndtering av feil.
 
